@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21814" started-at="2016-08-18T07:22:15Z" finished-at="2016-08-18T07:22:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21814" started-at="2016-08-18T07:22:15Z" finished-at="2016-08-18T07:22:37Z">
+      <class name="com.qc.panda.test.PandaIORTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qc.panda.test.PandaIORTest@68be2bc2]" name="setup" is-config="true" duration-ms="7472" started-at="2016-08-18T12:52:15Z" finished-at="2016-08-18T12:52:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Home_Page_Appear_Correct()[pri:0, instance:com.qc.panda.test.PandaIORTest@68be2bc2]" name="test_Home_Page_Appear_Correct" duration-ms="14324" started-at="2016-08-18T12:52:23Z" finished-at="2016-08-18T12:52:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_Appear_Correct -->
+      </class> <!-- com.qc.panda.test.PandaIORTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
